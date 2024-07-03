@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Shivam Patel/README.md
+💫 About Me:
+A passionate iOS developer.
+
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+Swift IOS
+
+📊 GitHub Stats:
+
+
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
