@@ -21,26 +21,9 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
 
 # 🔭 Apps Developed:
 <p float="left">
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center; margin: 10px;">
-        <a href="https://sites.google.com/view/shivams/ios/recipe-now">
-            <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="Recipe Now" style="width:100px; border-radius: 15px;">
-        </a>
-        <p>Recipe Now</p>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <a href="https://sites.google.com/view/shivams/ios/tradetron">
-              <img src="https://lh3.googleusercontent.com/d/1c1Ca14eAK9o-n4GRRp5b88QVxblTrYY6=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
-        </a>
-        <p>TradeTron</p>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <a href="https://sites.google.com/view/shivams/ios/todo-now">
-            <img src="https://lh3.googleusercontent.com/d/1SvIiR9OjIGHGfPlYVq9b-96kaVei-HGz=s220?authuser=0" alt="ToDo Now" style="width:100px; border-radius: 15px;">
-        </a>
-        <p>ToDo Now</p>
-    </div>
-</div>
+    <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="Recipe Now" style="width:100px; border-radius: 15px;">
+    <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="Recipe Now" style="width:100px; border-radius: 15px;">
+    <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="Recipe Now" style="width:100px; border-radius: 15px;">
 </p>
 
 # 💻 Tech Stack:
