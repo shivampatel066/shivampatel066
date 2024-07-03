@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Shivam Patel/README.md
+Shivam Patel ios/README.md
 # 💫 About Me:
 Hello! I'm a passionate iOS developer with a strong focus on building user-friendly and efficient applications. My expertise lies in utilizing Swift and various iOS frameworks to create seamless and engaging mobile experiences.
 
