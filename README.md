@@ -29,8 +29,7 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
     </div>
     <div style="text-align: center; margin: 10px;">
         <a href="https://sites.google.com/view/shivams/ios/tradetron">
-            <img src="https://sites.google.com/view/shivams/ios/tradetron">
-  <img src="https://lh3.googleusercontent.com/d/1c1Ca14eAK9o-n4GRRp5b88QVxblTrYY6=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
+              <img src="https://lh3.googleusercontent.com/d/1c1Ca14eAK9o-n4GRRp5b88QVxblTrYY6=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
         <p>TradeTron</p>
     </div>
