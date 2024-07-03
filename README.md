@@ -29,10 +29,6 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
             <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="Recipe Now" style="width:100px; border-radius: 15px;"/>
             <p>Recipe Now</p>
         </a>
-        <a href="https://sites.google.com/view/shivams/ios/recipe-now">
-            <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="Recipe Now" style="width:100px; border-radius: 15px;"/>
-            <p>Recipe Now</p>
-        </a>
 </p>
 
 # 💻 Tech Stack:
