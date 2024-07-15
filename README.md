@@ -30,6 +30,9 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
         <a href="https://sites.google.com/view/shivams/ios/tradetron">
               <img src="https://lh3.googleusercontent.com/d/1c1Ca14eAK9o-n4GRRp5b88QVxblTrYY6=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
+        <a href="https://sites.google.com/view/shivams/ios/sudoku-now">
+            <img src="https://lh3.googleusercontent.com/d/13CgloRJieDfVVjPtPqq2ZLwQYi7B3Fpi=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
+        </a>
         <a href="https://sites.google.com/view/shivams/ios/todo-now">
             <img src="https://lh3.googleusercontent.com/d/1SvIiR9OjIGHGfPlYVq9b-96kaVei-HGz=s220?authuser=0" alt="ToDo Now" style="width:100px; border-radius: 15px;">
         </a>
