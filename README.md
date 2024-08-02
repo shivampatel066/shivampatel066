@@ -24,6 +24,9 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
 
 # 🔭 Apps Developed:
 <p style="display: flex; justify-content: space-around; align-items: center;">
+        <a href="https://sites.google.com/view/shivams/ios/clipnow">
+            <img src="https://lh3.googleusercontent.com/d/1TJe4M1Cc34XGhrSfGVz62Ju7BMWtrl4t=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
+        </a>
         <a href="https://sites.google.com/view/shivams/ios/recipe-now">
             <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
