@@ -24,22 +24,22 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
 
 # 🔭 Apps Developed:
 <p style="display: flex; justify-content: space-around; align-items: center;">
-        <a href="https://sites.google.com/view/shivams/ios/clipnow">
+        <a href="https://codeshivam.com/projects/1">
             <img src="https://lh3.googleusercontent.com/d/1TJe4M1Cc34XGhrSfGVz62Ju7BMWtrl4t=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
-        <a href="https://sites.google.com/view/shivams/ios/recipe-now">
+        <a href="https://codeshivam.com/projects/3">
             <img src="https://lh3.googleusercontent.com/d/1HkAindbZoMTHt8IVKyNNqLq3McV6HT51=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
-        <a href="https://sites.google.com/view/shivams/ios/tradetron">
+        <a href="https://codeshivam.com/projects/4">
               <img src="https://lh3.googleusercontent.com/d/1c1Ca14eAK9o-n4GRRp5b88QVxblTrYY6=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
-        <a href="https://sites.google.com/view/shivams/ios/sudoku-now">
+        <a href="https://codeshivam.com/projects/2">
             <img src="https://lh3.googleusercontent.com/d/13CgloRJieDfVVjPtPqq2ZLwQYi7B3Fpi=s220?authuser=0" alt="TradeTron" style="width:100px; border-radius: 15px;">
         </a>
-        <a href="https://sites.google.com/view/shivams/ios/todo-now">
+        <a href="https://codeshivam.com/projects/5">
             <img src="https://lh3.googleusercontent.com/d/1SvIiR9OjIGHGfPlYVq9b-96kaVei-HGz=s220?authuser=0" alt="ToDo Now" style="width:100px; border-radius: 15px;">
         </a>
-        <a href="https://sites.google.com/view/shivams/ios/canigohome">
+        <a href="https://codeshivam.com/projects/6">
             <img src="https://lh3.googleusercontent.com/d/1wNS0x-ySoom7tuh3xpzoIcFXLuck_6w3=s220" alt="ToDo Now" style="width:100px; border-radius: 15px;">
         </a>
 </p>
