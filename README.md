@@ -34,6 +34,7 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
             <img src="https://lh3.googleusercontent.com/d/1h6v6UfuNjmSbV8lQTGXnNe6IBobWvX2F=s220?authuser=0" alt="LilTriangle" style="width:100px; border-radius: 15px;">
         </a>
 </p>
+
 # 🔭 Apps Developed:
 <p style="display: flex; justify-content: space-around; align-items: center;">
         <a href="https://codeshivam.com/projects/7">
