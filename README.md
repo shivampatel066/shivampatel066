@@ -25,7 +25,7 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
 # 💼 Companies I've Worked With:
 <p style="display: flex; justify-content: space-around; align-items: center;">
         <a href="https://www.dpworld.com/">
-            <img src="https://lh3.googleusercontent.com/d/1PMnzmfVco7jdlgoXYyGr9GDJmaR54Id=s220?authuser=0" alt="DP World" style="width:100px; border-radius: 15px;">
+            <img src="https://lh3.googleusercontent.com/d/1PMnzmfVco7jdlgoXYyGr9GDJmaR54Id-?authuser=0" alt="DP World" style="width:100px; border-radius: 15px;">
         </a>
 <a href="https://www.openbet.com/">
             <img src="https://lh3.googleusercontent.com/d/1MPQsIrKtXxfHfZxnJD4lECqPncmnWs1n=s220?authuser=0" alt="Openbet" style="width:100px; border-radius: 15px;">
