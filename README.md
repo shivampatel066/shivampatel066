@@ -28,7 +28,7 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
             <img src="https://lh3.googleusercontent.com/d/1PMnzmfVco7jdlgoXYyGr9GDJmaR54Id-?authuser=0" alt="DP World" style="width:100px; border-radius: 15px;">
         </a>
 <a href="https://www.openbet.com/">
-            <img src="https://lh3.googleusercontent.com/d/1MPQsIrKtXxfHfZxnJD4lECqPncmnWs1n=s220?authuser=0" alt="Openbet" style="width:100px; border-radius: 15px;">
+            <img src="https://lh3.googleusercontent.com/d/1I9H8bQD3AQqo-DnPdK9L7-bF9CFDJ5nK?authuser=0" alt="Openbet" style="width:100px; border-radius: 15px;">
         </a>
 <a href="https://liltriangle.com/">
             <img src="https://lh3.googleusercontent.com/d/1bLaDw4aTo8_QMgWVAbnBdTwTJDnR6jYm=s220?authuser=0" alt="LilTriangle" style="width:100px; border-radius: 15px;">
