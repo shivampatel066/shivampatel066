@@ -22,6 +22,18 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Hello! I'm a passionate iOS developer with a strong focus on building user-friendly and efficient applications. My expertise lies in utilizing Swift and various iOS frameworks to create seamless and engaging mobile experiences.
 
+# 💼 Companies I've Worked With:
+<p style="display: flex; justify-content: space-around; align-items: center;">
+        <a href="https://www.dpworld.com/">
+            <img src="https://lh3.googleusercontent.com/d/1PMnzmfVco7jdlgoXYyGr9GDJmaR54Id=s220?authuser=0" alt="DP World" style="width:100px; border-radius: 15px;">
+        </a>
+<a href="https://www.openbet.com/">
+            <img src="https://lh3.googleusercontent.com/d/1MPQsIrKtXxfHfZxnJD4lECqPncmnWs1n=s220?authuser=0" alt="Openbet" style="width:100px; border-radius: 15px;">
+        </a>
+<a href="https://liltriangle.com/">
+            <img src="https://lh3.googleusercontent.com/d/1bLaDw4aTo8_QMgWVAbnBdTwTJDnR6jYm=s220?authuser=0" alt="LilTriangle" style="width:100px; border-radius: 15px;">
+        </a>
+</p>
 # 🔭 Apps Developed:
 <p style="display: flex; justify-content: space-around; align-items: center;">
         <a href="https://codeshivam.com/projects/7">
