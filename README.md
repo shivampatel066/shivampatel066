@@ -24,6 +24,9 @@ Hello! I'm a passionate iOS developer with a strong focus on building user-frien
 
 # 💼 Companies I've Worked With:
 <p style="display: flex; justify-content: space-around; align-items: center;">
+<a href="https://www.walmart.com/">
+            <img src="https://lh3.googleusercontent.com/d/1HTrabppXkHVEinCHJJEMHJkRIp20OwZ-?authuser=0" alt="DP World" style="width:100px; border-radius: 15px;">
+        </a>
         <a href="https://www.dpworld.com/">
             <img src="https://lh3.googleusercontent.com/d/1PMnzmfVco7jdlgoXYyGr9GDJmaR54Id-?authuser=0" alt="DP World" style="width:100px; border-radius: 15px;">
         </a>
